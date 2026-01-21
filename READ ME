@@ -1,0 +1,24 @@
+# ⏰ Time Wallet
+
+A modern, decentralized Ethereum wallet with advanced security features.
+
+## Features
+
+- 💼 Multi-currency support (ETH, USDT, DAI, USDC)
+- 📤 Send cryptocurrencies
+- 🌉 Secure cross-chain bridge
+- 🔒 dApp security scanner
+- 🛡️ Advanced threat detection
+
+## Live Demo
+
+[View Demo](https://yourusername.github.io/time-wallet)
+
+## Installation
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## Security
+
+Time Wallet includes built-in security scanning for dApp connections and uses encrypted storage for private keys.
